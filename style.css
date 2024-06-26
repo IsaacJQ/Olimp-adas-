@@ -1,9 +1,9 @@
 @font-face {
   font-family: 'Olympic Sans';
-  src: url("../fonts/OlympicSans.ttf") format('ttf');
-  src: url("../fonts/OlympicSans.eot") format('eot');
-  src: url("../fonts/OlympicSans.woff") format('woff');
-  src: url("../fonts/OlympicSans.woff2") format('woff2');
+  src: url("OlympicSans.ttf") format('ttf');
+  src: url("OlympicSans.eot") format('eot');
+  src: url("OlympicSans.woff") format('woff');
+  src: url("OlympicSans.woff2") format('woff2');
 }
 
 body, html {
@@ -23,22 +23,22 @@ body, html {
 }
 
 .bgimg-1 {
-  background-image: url("../img/olimpiadas.png");
+  background-image: url("olimpiadas.png");
   min-height: 100%;
 }
 
 .bgimg-2 {
-  background-image: url("../img/paris.webp");
+  background-image: url("paris.webp");
   min-height: 400px;
 }
 
 .bgimg-3 {
-  background-image: url("../img/paralimpiadas.webp");
+  background-image: url("paralimpiadas.webp");
   min-height: 400px;
 }
 
 .bgimg-4 {
-  background-image: url("../img/italia.jpg");
+  background-image: url("img/italia.jpg");
   min-height: 400px;
 }
 
@@ -48,12 +48,12 @@ body, html {
 }
 
 .bgimg-6 {
-  background-image: url('../img/obmep.jpg');
+  background-image: url('obmep.jpg');
   min-height: 400px;
 }
 
 .bgimg-7 {
-  background-image: url("../img/indigenas.jpg");
+  background-image: url("indigenas.jpg");
   min-height: 400px;
 }
 
